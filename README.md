@@ -1,6 +1,11 @@
+<p align="center">
+  ![Toluwani-logos__white](https://user-images.githubusercontent.com/45424924/178562821-f891a88e-0f71-44e4-a5b3-b88487799af4.png)
+</p>
+
 ### Hi there 👋
 
-![Toluwani-logos__white1](https://user-images.githubusercontent.com/45424924/178520294-d24baafd-9df5-403d-8cd2-94e89172263e.png)
+
+
 
 <p class="text-justify"><I am Toluwani Aremu. As a self-motivated learner and research enthusiast, my main research interests lie in Improving Human-AI Interactions, applying Deep Learning to enhance human-centered Smart Home technologies, Ethical AI and Bias Mitigation, Privacy Preserving ML techniques, Digital Technologies (AI, VR, XR, AR, IoT) for Health & Education. 
 
