@@ -27,6 +27,6 @@ If you would love to either have a chat with me about anything:
 <h1 align="center">Blogs</h1>
 To follow my updates, or read my articles:
 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@tioluwaniaremu)
-[<img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />](https://toluwaniaremu.wordpress.com/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@realaiseeker)
+[<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />](https://toluwaniaremu.wordpress.com/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/toluwani-aremu-15025510b/)
