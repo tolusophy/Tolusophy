@@ -18,7 +18,7 @@ I am currently working on implementing methods to improve inference latency in P
 In my free times, I love having a chat about Futuristic AI, Future Cities, Climate Change, Psychology and Philosophies. If I get too excited, I might prank you once or twice. I love playing games, and I am bad at that. I love doing sports, and I am also bad at that. You might catch me every now and then in the gym as that improves my confidence. I listen to music, and my love for country and Rock & Roll tops that aspect. I play the guitar, at least that's what I think I do.
 
 <h1 align="center">Socials</h1>
-If you would love to either have a chat with me about anything:
+If you would love to have a chat with me about anything:
 
 [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:toluwani.aremu@mbzuai.ac.ae)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tioluwaniaremu@gmail.com)
@@ -28,5 +28,5 @@ If you would love to either have a chat with me about anything:
 To follow my updates, or read my articles:
 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@realaiseeker)
-[<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />](https://toluwaniaremu.wordpress.com/)
+[<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />](https://realtoluwani.blogspot.com/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/toluwani-aremu-15025510b/)
