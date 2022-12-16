@@ -9,7 +9,7 @@
 <p align="justify"> I have a range of research and industrial skills which are useful for technological advancements from either a research perspective, a development perspective or a R&D perspective. Some of the tools I have used are Python, Pytorch, Pytorch Lightning, TensorFlow, Keras, NumPy, Vb.Net, Colab, Power-Bi, Excel and Canva. I am quite proficient with many Integrated Development Environments such as VSCode, Visual Studio, and Notebooks and I have a basic knowledge of MLOps in Cloud Environments like Azure, AWS, Google Cloud, and IBM Watson. </p>
 
 <h1 align="center">Education</h1>
-<p align="justify"> I have a Bachelor of Science in Computer Science, from Adeleke University, Nigeria, and a Master of Science in Computer Science from University of Ibadan, Nigeria. I will be completing my Research focused Masters in Machine Learning at MBZUAI in December, 2022. </p>
+<p align="justify"> I have a Bachelor of Science degree in Computer Science (Adeleke University, Nigeria), and a Master of Science degree in Computer Science (University of Ibadan, Nigeria). I recently completed my Research focused Masters of Science degree in Machine Learning at the MBZUAI in December, 2022. </p>
 
 <h1 align="center">Research</h1>
 <p align="justify"> I am currently working on implementing methods to improve inference latency in Privacy Preserving Deep Learning Models as a Research Assistant at SPriNT-AI Lab, MBZUAI under the supervision of <a href="https://scholar.google.com/citations?hl=en&user=2qx0RnEAAAAJ&view_op=list_works&sortby=pubdate">Dr. Karthik Nandakumar</a>. Previously, I was also a Research Assistant at the University of Ibadan, and I worked on improving the security of classic Cryptographic algorithms while preserving its speed. </p>
