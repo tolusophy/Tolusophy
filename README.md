@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">Introduction</h1>
-<p align="justify"> I am Toluwani Aremu. As a self-motivated learner and research enthusiast, my main research interests lie in Improving Human-AI Interactions, applying Deep Learning to enhance human-centered Smart Home technologies, Ethical AI and Bias Mitigation, Privacy Preserving ML techniques, Digital Technologies (AI, VR, XR, AR, IoT) for Health & Education. </p>
+<p align="justify"> I am Toluwani Aremu. As a self-motivated learner and research enthusiast, my main research interests lie in Responsible AI development (especially in privacy, fairness, and robustness), Medical Imaging and Human-centred/Pervasive AI in Smart Cities (Homes, Health, Work). </p>
 
 <h1 align="center">Skills</h1>
-<p align="justify"> I have a range of research and industrial skills which are useful for technological advancements from either a research perspective, a development perspective or a R & D perspective. Some of the tools I use are Python, Pytorch, Pytorch Lightning, TensorFlow, Keras, NumPy, Vb.Net, Colab, Power-Bi, Tableau, Excel and Canva. I am quite proficient with many Integrated Development Environments and Cloud CI/CD Environments like Azure ML, AWS Sagemaker, Google Cloud AI, IBM Watson, VSCode, Visual Studio, Jupyter Notebook, Github. </p>
+<p align="justify"> I have a range of research and industrial skills which are useful for technological advancements from either a research perspective, a development perspective or a R&D perspective. Some of the tools I have used are Python, Pytorch, Pytorch Lightning, TensorFlow, Keras, NumPy, Vb.Net, Colab, Power-Bi, Excel and Canva. I am quite proficient with many Integrated Development Environments such as VSCode, Visual Studio, and Notebooks and I have a basic knowledge of MLOps in Cloud Environments like Azure, AWS, Google Cloud, and IBM Watson. </p>
 
 <h1 align="center">Education</h1>
 <p align="justify"> I have a Bachelor of Science in Computer Science, from Adeleke University, Nigeria, and a Master of Science in Computer Science from University of Ibadan, Nigeria. I will be completing my Research focused Masters in Machine Learning at MBZUAI in December, 2022. </p>
