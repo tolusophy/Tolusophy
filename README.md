@@ -27,8 +27,8 @@ If you would love to have a chat with me about anything:
 <h1 align="center">Blogs</h1>
 To follow my updates, or read my articles:
 
-[<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />](https://realtoluwani.blogspot.com/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@realaiseeker)
+[<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />](https://tolusophy.blogspot.com/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@tolusophy)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/toluwaniaremu/)
 
 Thank you!
